@@ -1,1 +1,1 @@
-# frontend
+1. Для перевода компонента его нужно обернуть в HOC пример: export default withTranslation()(About);
